@@ -1,0 +1,49 @@
+.utopia-header{
+	position: relative;
+    display: inline-block;
+    left: 50%;
+    transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+}
+
+.header-logo{
+	position: relative;
+	float: left;
+}
+
+.header-text-container{
+	position: relative;
+	float: right;
+	font-size: 25px;
+    font-weight: 700;
+    padding: 13px 22px 0;
+}
+
+.header-tabs-holder{
+	clear: both;
+    position: relative;
+    padding: 25px;
+}
+
+.utopia-body{
+	position: relative;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 70%;
+  margin: auto;
+}
+
+.header-tab {
+    position: relative;
+    float: left;
+    padding: 5px 15px;
+}
+
+.utopia-body-content-holder {
+    clear: both;
+    position: relative;
+}
