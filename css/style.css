@@ -46,4 +46,25 @@
 .utopia-body-content-holder {
     clear: both;
     position: relative;
+    padding: 20px 0;
+}
+
+.utopia-description {
+    margin: 20px 0;
+}
+
+.utopia-moto-container {
+    display: table;
+    position: relative;
+    background: #f2f2f2;
+}
+
+.moto-holder {
+    display: table-cell;
+    padding: 25px 15px;
+}
+
+.moto-heading-holder {
+    text-align: center;
+    padding: 10px;
 }
